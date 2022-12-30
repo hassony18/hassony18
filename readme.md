@@ -39,7 +39,7 @@
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="200"></td>
     <td><img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="200"></td>
-    <td><img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" width="200"></td>
+    <td><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="200"></td>
   </tr>
 
 </table>
